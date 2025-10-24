@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIDirecciones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76f630add7e42a633c226e373aae5a1bc27e2a1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIDirecciones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIDirecciones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
