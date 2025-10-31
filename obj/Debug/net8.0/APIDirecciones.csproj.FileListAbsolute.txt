@@ -100,3 +100,4 @@ C:\Users\elhernandez\source\APIDirecciones\CODIGO\obj\Debug\net8.0\refint\APIDir
 C:\Users\elhernandez\source\APIDirecciones\CODIGO\obj\Debug\net8.0\APIDirecciones.pdb
 C:\Users\elhernandez\source\APIDirecciones\CODIGO\obj\Debug\net8.0\APIDirecciones.genruntimeconfig.cache
 C:\Users\elhernandez\source\APIDirecciones\CODIGO\obj\Debug\net8.0\ref\APIDirecciones.dll
+C:\Users\elhernandez\source\APIDirecciones\CODIGO\obj\Debug\net8.0\APIDirecciones.sourcelink.json
